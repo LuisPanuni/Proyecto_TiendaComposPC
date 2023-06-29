@@ -1,0 +1,17 @@
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\bin\Debug\net6.0-windows\Tienda de Componenetes de PC.exe
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\bin\Debug\net6.0-windows\Tienda de Componenetes de PC.deps.json
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\bin\Debug\net6.0-windows\Tienda de Componenetes de PC.runtimeconfig.json
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\bin\Debug\net6.0-windows\Tienda de Componenetes de PC.dll
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\bin\Debug\net6.0-windows\Tienda de Componenetes de PC.pdb
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda_de_Componenetes_de_PC.Form1.resources
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.AssemblyInfo.cs
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.dll
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\refint\Tienda de Componenetes de PC.dll
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.pdb
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\Tienda de Componenetes de PC.genruntimeconfig.cache
+C:\Users\win10\Desktop\PROGRAMACIÓN\Programas con C#\Proyecto\Tienda de Componenetes de PC\Tienda de Componenetes de PC\obj\Debug\net6.0-windows\ref\Tienda de Componenetes de PC.dll
