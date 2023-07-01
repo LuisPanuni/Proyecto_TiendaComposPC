@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             label2 = new Label();
             btn_ingresar = new Button();
             textBox1 = new TextBox();
             txt_usuario = new TextBox();
             txt_contrasena = new TextBox();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -50,7 +53,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(56, 252);
+            label2.Location = new Point(56, 263);
             label2.Name = "label2";
             label2.Size = new Size(86, 21);
             label2.TabIndex = 1;
@@ -58,13 +61,15 @@
             // 
             // btn_ingresar
             // 
+            btn_ingresar.BackColor = SystemColors.Desktop;
             btn_ingresar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            btn_ingresar.ForeColor = SystemColors.AppWorkspace;
             btn_ingresar.Location = new Point(151, 357);
             btn_ingresar.Name = "btn_ingresar";
             btn_ingresar.Size = new Size(102, 32);
             btn_ingresar.TabIndex = 2;
             btn_ingresar.Text = "INGRESAR";
-            btn_ingresar.UseVisualStyleBackColor = true;
+            btn_ingresar.UseVisualStyleBackColor = false;
             btn_ingresar.Click += btn_ingresar_Click;
             // 
             // textBox1
@@ -83,17 +88,28 @@
             // 
             // txt_contrasena
             // 
-            txt_contrasena.Location = new Point(130, 276);
+            txt_contrasena.Location = new Point(130, 287);
             txt_contrasena.Name = "txt_contrasena";
             txt_contrasena.PasswordChar = '*';
             txt_contrasena.Size = new Size(178, 23);
             txt_contrasena.TabIndex = 5;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(130, 45);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(137, 127);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 6;
+            pictureBox1.TabStop = false;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(381, 422);
+            Controls.Add(pictureBox1);
             Controls.Add(txt_contrasena);
             Controls.Add(txt_usuario);
             Controls.Add(textBox1);
@@ -102,6 +118,8 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Seguridad del Sistema";
+            Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -114,5 +132,6 @@
         private TextBox textBox1;
         private TextBox txt_usuario;
         private TextBox txt_contrasena;
+        private PictureBox pictureBox1;
     }
 }
